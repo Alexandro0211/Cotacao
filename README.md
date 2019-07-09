@@ -22,7 +22,7 @@
 * Na hora de baixar o executável, irá solicitar login e senha, usar as credenciais abaixo:
   ```sh
     User: contato@ultrasistemas.com.br
-    Password: Estac2ul
+    Password: Contato123
     ```
 * Depois de baixado execute o instalador e siga os passos de instalação.
 
